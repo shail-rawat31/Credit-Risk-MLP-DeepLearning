@@ -118,7 +118,7 @@ The project is implemented using the following technologies:
 # Project Structure
 Credit-Risk-MLP
 │
-├── Credit_Risk_MLP.ipynb
+├── Assignment2_2501940011.ipynb
 ├── credit_risk_mlp.py
 ├── README.md
 └── Credit_Risk_MLP_Report.pdf
