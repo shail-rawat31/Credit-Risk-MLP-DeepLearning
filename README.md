@@ -149,7 +149,7 @@ The project uses:
 
 CNN-Image-Classification
 │
-├── CNN_Image_Classification.ipynb
+├── Assignment2_2501940011.ipynb
 ├── cnn_classifier.py
 ├── README.md
 └── CNN_Image_Classification_Report.pdf
